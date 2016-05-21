@@ -1,2 +1,1 @@
-# Bento-Arm-Hardware
-The 3d files and documentation for building the Bento Arm
+Explain what all the different files and folders represent do where the main assemblies are
