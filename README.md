@@ -13,7 +13,7 @@ The Bento Arm consists of off-the-shelf MX-series Dynamixel actuators and bracke
 
 
 ## Contributing
-You can share your experience, new design, ideas, feature requests, or questions on the [Bento Arm project forum](http://blincdev.forumatic.com/viewforum.php?f=7&sid=06e004e9aaa21a58acb51221067f82d3).
+You can share your experience, new design, ideas, feature requests, or questions on the [Bento Arm project forum](https://gnarlywhale.xyz/category/5/bento-arm).
 
 If you would like to contribute to future official releases of the Bento Arm hardware we recommend contacting us on the forums to coordinate with our development team. To get started you will need to [fork this repo](https://help.github.com/articles/using-pull-requests/) and once your modification or enhancement is complete submit a [pull request](https://help.github.com/articles/using-pull-requests/).
 
